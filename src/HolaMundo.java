@@ -6,6 +6,7 @@ public class HolaMundo {
 
 		System.out.println("Hola Don Pepitp");
 		System.out.println("Hola Don Jose");
+		System.out.println("Paso usted por mi casa ");
 	}
 
 }
